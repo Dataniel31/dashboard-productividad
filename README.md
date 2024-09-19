@@ -66,8 +66,8 @@ Este dashboard proporciona una visión clara y completa del rendimiento de la pr
 Para más información sobre este proyecto o posibles colaboraciones:
 
 - **Daniel Alex Suclle Luque**
-- **Email:** [tu.email@ejemplo.com](mailto:alexdspe02@gmail.com)
-- **LinkedIn:** [TuPerfilLinkedIn](https://www.linkedin.com/in/alexsuclle/)
+- **Email:** [alexdspe02@gmail.com](mailto:alexdspe02@gmail.com)
+- **LinkedIn:** [Daniel Suclle](https://www.linkedin.com/in/alexsuclle/)
 
 ---
 
